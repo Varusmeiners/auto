@@ -1,0 +1,65 @@
+/* General Styles */
+body {font-family: 'Times New Roman', Times, serif,;margin: 0;padding: 0;
+
+}
+
+/* Banner */
+.banner {
+   
+    background-color: #45517D;
+    color: white;
+    font-size: 120%;
+   display: flex;
+   justify-content: end;
+   align-items: end;
+   
+    height: 60px;
+    padding: 15px;
+}
+
+
+/* Main Container */
+.main-container {
+    display: flex;
+    height: 500px;
+}
+
+/* Left Panel */
+.left-panel {
+    background-color: #61B2EC;
+    width: 40%;
+    padding: 10px;
+}
+
+/* Right Panel */
+.right-panel {
+    background-color: #8EC9F2;
+    width: 60%;
+    padding: 10px;
+}
+
+/* Footer */
+.footer {
+    background-color: #45517D;
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    padding: 10px;
+}
+
+.footer table {
+    width: 100%;
+}
+
+.footer a {
+    color: orange;
+  
+}
+
+.footer a:visited {
+    color: green;
+}
+ img{
+    width:100px; 
+    height: 50px;
+}
